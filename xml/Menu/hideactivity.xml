@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/hideactivitysettings</path>
+    <page_callback>CRM_Hideactivity_Form_HideActivitySettings</page_callback>
+    <title>HideActivitySettings</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
